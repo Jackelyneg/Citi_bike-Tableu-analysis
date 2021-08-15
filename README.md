@@ -1,4 +1,6 @@
 # Tableu-challenge
+
+[Click Here to download Tableu workbook]( https://public.tableau.com/app/profile/jackelyne.gutierrez/viz/CitiBiketwb/generationanalysisdashboard)
 ## Tasks
 to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
@@ -67,25 +69,3 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
 - March was when the quarantine shutdown was put in place in NJ which is why there is a significant decrease in the month on March and April. 
 
 - During the Month of May, Govener Murphy lifted COVID-19 restrictions and there was more business reopenings. Some of these include social distancing and the mask mandate .
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
