@@ -1,10 +1,8 @@
 # Tableu-challenge
 
 [Click Here to download Tableu workbook]( https://public.tableau.com/app/profile/jackelyne.gutierrez/viz/CitiBiketwb/generationanalysisdashboard)
-## Tasks
-to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
-
-Design 2-5 visualizations for each discovered phenomena.
+## Summary
+Aggregate the data found in the Citi Bike Trip History Logs from Jersey City, NJ and find  unexpected phenomena. When the data is obtained visualizations are designed for each discovered phenomena.
 ## Ridership Peak Data
 
 ![image 1](https://github.com/Jackelyneg/Tableu-challenge/blob/main/Images/Capture.PNG)
@@ -60,7 +58,7 @@ Design 2-5 visualizations for each discovered phenomena.
 
 - This means that there should be more bike drop off stations to get from New York to Jersey City.
     
-### CItiBike Monthly Ridership
+### CitiBike Monthly Ridership
 
 ![image 4](https://github.com/Jackelyneg/Tableu-challenge/blob/main/Images/monthly%20use.PNG)
 - Ridership is seen to decrease after January which was the start of the Covid pandemic. 
